@@ -1,0 +1,20 @@
+html,body{
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+.game{
+  border: 1px solid grey;
+  width: 360px;
+  height: 365px;
+  display:inline-block;
+}
+.tile{
+  width:118px;
+  height:120px;
+  display: block;
+  float:left;
+  border:1px solid grey;
+  cursor:pointer;
+}
